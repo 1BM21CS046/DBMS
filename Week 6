@@ -1,5 +1,5 @@
-create database arvind_Employee;
-use arvind_Employee;
+create database Prannav_Employee;
+use Prannav_Employee;
 
 create table dept (
 deptno int primary key,
